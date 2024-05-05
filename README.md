@@ -9,9 +9,7 @@ Label Studio link
  https://labelstud.io/
 ```
 
- A screenshot of a computer
 
-Description automatically generated
 
 # How to run?
 ### STEPS:
