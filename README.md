@@ -8,7 +8,7 @@ Label Studio link
 ```bash
  https://labelstud.io/
 ```
-![Annotation]([image-path](https://github.com/phadkep/OCR/blob/main/Documents/Annotation.png))
+![Annotation](Documents/Annotation.png))
 
 
 
