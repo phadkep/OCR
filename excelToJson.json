@@ -1,0 +1,505 @@
+{
+  "Semester 1": {
+    "Name": "SPRAVEENA KUMARI",
+    "University": "JAWAHARLALNEHRU TECHNOLOGICAL UNIVERSITYHYDERABAD",
+    "Course": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "CGPA": NaN,
+    "Percentage": NaN,
+    "Autonomous": NaN,
+    "Course Info": [
+      {
+        "S.No.": 1,
+        "SUBJECT CODE": 53007,
+        "SUBJECT TITLE": "MATHEMATICS-III",
+        "Internal Marks": 24,
+        "End Exam": 68,
+        ".Total Marks": 92,
+        "Result Credits": "P",
+        "Unnamed: 7": 3
+      },
+      {
+        "S.No.": 2,
+        "SUBJECT CODE": 53008,
+        "SUBJECT TITLE": "FLUID MECHANICS AND HYDRAULIC MACHINERY",
+        "Internal Marks": 17,
+        "End Exam": 51,
+        ".Total Marks": 68,
+        "Result Credits": "P",
+        "Unnamed: 7": 3
+      },
+      {
+        "S.No.": 3,
+        "SUBJECT CODE": 53009,
+        "SUBJECT TITLE": "ELECTRONIC DEVICES & CIRCUITS",
+        "Internal Marks": 24,
+        "End Exam": 34,
+        ".Total Marks": 58,
+        "Result Credits": "P",
+        "Unnamed: 7": 4
+      },
+      {
+        "S.No.": 4,
+        "SUBJECT CODE": 53010,
+        "SUBJECT TITLE": "ELECTRICAL CIRCUITS",
+        "Internal Marks": 25,
+        "End Exam": 54,
+        ".Total Marks": 79,
+        "Result Credits": "P",
+        "Unnamed: 7": 4
+      },
+      {
+        "S.No.": 5,
+        "SUBJECT CODE": 53011,
+        "SUBJECT TITLE": "ELECTRO MAGNETIC FIELDS",
+        "Internal Marks": 24,
+        "End Exam": 29,
+        ".Total Marks": 53,
+        "Result Credits": "P",
+        "Unnamed: 7": 3
+      },
+      {
+        "S.No.": 6,
+        "SUBJECT CODE": 53012,
+        "SUBJECT TITLE": "ELECTRICAL MACHINES-I",
+        "Internal Marks": 24,
+        "End Exam": 54,
+        ".Total Marks": 78,
+        "Result Credits": "P",
+        "Unnamed: 7": 4
+      },
+      {
+        "S.No.": 7,
+        "SUBJECT CODE": 53602,
+        "SUBJECT TITLE": "FLUID MECHANICS AND HYDRAULIC MACHINERY LAB",
+        "Internal Marks": 18,
+        "End Exam": 48,
+        ".Total Marks": 66,
+        "Result Credits": "P",
+        "Unnamed: 7": 2
+      },
+      {
+        "S.No.": 8,
+        "SUBJECT CODE": 53603,
+        "SUBJECT TITLE": "ELECTRONIC DEVICES & CIRCUITS LAB",
+        "Internal Marks": 24,
+        "End Exam": 48,
+        ".Total Marks": 72,
+        "Result Credits": "P",
+        "Unnamed: 7": 2
+      }
+    ]
+  },
+  "Semester 2": {
+    "Name": "Month & Year of Exam",
+    "University": "JAWAHARLALNEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD",
+    "Course": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "CGPA": NaN,
+    "Percentage": NaN,
+    "Autonomous": NaN,
+    "Course Info": [
+      {
+        "S.No.": 1,
+        "SUBJECT CODE": 54007,
+        "SUBJECT TITLE": "MANAGERIAL ECONOMICS & FINANCIAL ANALYSIS",
+        "Internal Marks": 23,
+        "End Exam": 48,
+        "Total Marks": 71,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 4
+      },
+      {
+        "S.No.": 2,
+        "SUBJECT CODE": 54008,
+        "SUBJECT TITLE": "POWERSYSTEMS-I",
+        "Internal Marks": 24,
+        "End Exam": 37,
+        "Total Marks": 61,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 3
+      },
+      {
+        "S.No.": 3,
+        "SUBJECT CODE": 54009,
+        "SUBJECT TITLE": "ELECTRONIC CIRCUITS",
+        "Internal Marks": 25,
+        "End Exam": 17,
+        "Total Marks": 42,
+        "Unnamed: 6": "F",
+        "Unnamed: 7": 0
+      },
+      {
+        "S.No.": 4,
+        "SUBJECT CODE": 54010,
+        "SUBJECT TITLE": "SWITCHING THEORY& LOGIC DESIGN",
+        "Internal Marks": 25,
+        "End Exam": 29,
+        "Total Marks": 54,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 4
+      },
+      {
+        "S.No.": 5,
+        "SUBJECT CODE": 54062,
+        "SUBJECT TITLE": "NETWORK THEORY",
+        "Internal Marks": 24,
+        "End Exam": 33,
+        "Total Marks": 57,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 3
+      },
+      {
+        "S.No.": 6,
+        "SUBJECT CODE": 54012,
+        "SUBJECT TITLE": "ELECTRICAL MACHINES-I",
+        "Internal Marks": 20,
+        "End Exam": 50,
+        "Total Marks": 70,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 4
+      },
+      {
+        "S.No.": 7,
+        "SUBJECT CODE": 54602,
+        "SUBJECT TITLE": "ELECTRICAL MACHINES LAB-I",
+        "Internal Marks": 25,
+        "End Exam": 49,
+        "Total Marks": 74,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 2
+      },
+      {
+        "S.No.": 8,
+        "SUBJECT CODE": 54603,
+        "SUBJECT TITLE": "ELECTRIC CIRCUITS AND SIMULATION LAB",
+        "Internal Marks": 25,
+        "End Exam": 50,
+        "Total Marks": 75,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 2
+      }
+    ]
+  },
+  "Semester 3": {
+    "Name": "SPRAVEENA KUMARI",
+    "University": "JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY HYDERABAD",
+    "Course": "ELECTRICAL &ELECTRONICS ENGINEERING",
+    "CGPA": NaN,
+    "Percentage": NaN,
+    "Autonomous": NaN,
+    "Course Info": [
+      {
+        "S.No. SUBJECT": "S.No.",
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": NaN
+      },
+      {
+        "S.No. SUBJECT": NaN,
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": "IC APPLICATIONS"
+      },
+      {
+        "S.No. SUBJECT": "1",
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": "IC APPLICATIONS"
+      },
+      {
+        "S.No. SUBJECT": "55010",
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": "MANAGEMENT SCIENCE"
+      },
+      {
+        "S.No. SUBJECT": "2",
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": "24"
+      },
+      {
+        "S.No. SUBJECT": "3",
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": "POWER SYSTEMS-II"
+      },
+      {
+        "S.No. SUBJECT": NaN,
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": "CONTROL SYSTEMS"
+      },
+      {
+        "S.No. SUBJECT": "4",
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": "CONTROL SYSTEMS"
+      },
+      {
+        "S.No. SUBJECT": NaN,
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": "POWERELECTRONICS"
+      },
+      {
+        "S.No. SUBJECT": "5",
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": "POWERELECTRONICS"
+      },
+      {
+        "S.No. SUBJECT": "5",
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": "ELECTRICAL MACHINES-II"
+      },
+      {
+        "S.No. SUBJECT": "6",
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": "ELECTRICAL MACHINES-I(LAB"
+      },
+      {
+        "S.No. SUBJECT": "7",
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": "ELECTRICAL MACHINES-I(LAB"
+      },
+      {
+        "S.No. SUBJECT": "55603",
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": "CONTROL SYSTEMS AND SIMULATION (LAB)"
+      },
+      {
+        "S.No. SUBJECT": "8",
+        "SUBJECT TITLE Internal Marks End Exam Total Marks Result Credits": "CONTROL SYSTEMS AND SIMULATION (LAB)"
+      }
+    ]
+  },
+  "Semester 4": {
+    "Name": "29-VRE C,NIZAMABAD",
+    "University": "JAWAHARLALNEHRU TECHNOLOGICALUNIVERSITYHYDERABAD",
+    "Course": "SPRAVEENA KUMARI",
+    "CGPA": NaN,
+    "Percentage": NaN,
+    "Autonomous": NaN,
+    "Course Info": [
+      {
+        "Unnamed: 0": 1,
+        "SUBJECT CODE": 54009,
+        "SUBJECT": "ELECTRONIC CIRCUITS",
+        "TITLE": NaN,
+        "Internal Marks": 25,
+        "End Exam": 37,
+        "Total Marks": 62,
+        "Result": "P",
+        "Credits": 3
+      }
+    ]
+  },
+  "Semester 5": {
+    "Name": "29-VR E C,NIZAMABAD",
+    "University": "JAWAHARLALNEHRU TECHNOLOGICAL UNIVERSITYHYDERABAD",
+    "Course": "SRRAMEEKKUMARI",
+    "CGPA": NaN,
+    "Percentage": NaN,
+    "Autonomous": NaN,
+    "Course Info": [
+      {
+        "SUBJECT TITLE": "DC TRANSMISSION",
+        "Internal Marks End Exam Total Marks": 17,
+        "Result": "P",
+        "Credits": 3
+      },
+      {
+        "SUBJECT TITLE": "URAL.NETWORKS AND FUZZY LOGIC",
+        "Internal Marks End Exam Total Marks": 25,
+        "Result": "P",
+        "Credits": 3
+      },
+      {
+        "SUBJECT TITLE": "VAC TRANSMISSION",
+        "Internal Marks End Exam Total Marks": 24,
+        "Result": "P",
+        "Credits": 3
+      },
+      {
+        "SUBJECT TITLE": "USTRY ORIENTED MINIPROJECT",
+        "Internal Marks End Exam Total Marks": 47,
+        "Result": "P",
+        "Credits": 2
+      },
+      {
+        "SUBJECT TITLE": "MINAR",
+        "Internal Marks End Exam Total Marks": 47,
+        "Result": "P",
+        "Credits": 2
+      },
+      {
+        "SUBJECT TITLE": "MOR PROJECT",
+        "Internal Marks End Exam Total Marks": 47,
+        "Result": "P",
+        "Credits": 10
+      },
+      {
+        "SUBJECT TITLE": "MPREHENSIVE VIVA",
+        "Internal Marks End Exam Total Marks": 96,
+        "Result": "P",
+        "Credits": 2
+      }
+    ]
+  },
+  "Semester 6": {
+    "Name": "29-VRE C,NIZAMABAD",
+    "University": "JAWAHARLALNEHRU TECHNOLOGICAL UNIVERSITYHYDERABAD",
+    "Course": "S PRAVEENA KUMAR",
+    "CGPA": NaN,
+    "Percentage": NaN,
+    "Autonomous": NaN,
+    "Course Info": [
+      {
+        "S.No.": 1,
+        "SUBJECT CODE": 57012,
+        "Unnamed: 2": "SWITCHGEAR ANDPROTECTION",
+        "Internal Marks": 25,
+        "End Exam": 33,
+        "Total Marks": 58,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 3
+      },
+      {
+        "S.No.": 2,
+        "SUBJECT CODE": 57013,
+        "Unnamed: 2": "UTILIZATION OF ELECTRICAL ENERGY",
+        "Internal Marks": 23,
+        "End Exam": 45,
+        "Total Marks": 68,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 3
+      },
+      {
+        "S.No.": 3,
+        "SUBJECT CODE": 57014,
+        "Unnamed: 2": "INSTRUMENTATION",
+        "Internal Marks": 24,
+        "End Exam": 37,
+        "Total Marks": 61,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 3
+      },
+      {
+        "S.No.": 4,
+        "SUBJECT CODE": 57015,
+        "Unnamed: 2": "POWER SYSTEM OPERATION AND CONTROL",
+        "Internal Marks": 23,
+        "End Exam": 63,
+        "Total Marks": 86,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 4
+      },
+      {
+        "S.No.": 5,
+        "SUBJECT CODE": 57016,
+        "Unnamed: 2": "HIGH VOLTAGE ENGINEERING",
+        "Internal Marks": 23,
+        "End Exam": 40,
+        "Total Marks": 63,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 4
+      },
+      {
+        "S.No.": 6,
+        "SUBJECT CODE": 57020,
+        "Unnamed: 2": "ELECTRICAL DISTRIBUTION SYSTEMS",
+        "Internal Marks": 25,
+        "End Exam": 38,
+        "Total Marks": 63,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 4
+      },
+      {
+        "S.No.": 7,
+        "SUBJECT CODE": 57603,
+        "Unnamed: 2": "MICROPROCESSORS AND MICROCONTROLLERS LAB",
+        "Internal Marks": 24,
+        "End Exam": 45,
+        "Total Marks": 69,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 2
+      },
+      {
+        "S.No.": 8,
+        "SUBJECT CODE": 57604,
+        "Unnamed: 2": "ELECTRICAL MEASUREMENTS LAB",
+        "Internal Marks": 25,
+        "End Exam": 49,
+        "Total Marks": 74,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 2
+      }
+    ]
+  },
+  "Semester 7": {
+    "Name": "S PRAVEENA KUMARI",
+    "University": "JAWAHARLALNEHRU TECHNOLOGICAL UNIVERSITYHYDERABAD",
+    "Course": "ELECTRICAL & ELECTRONICS ENGINEERING",
+    "CGPA": NaN,
+    "Percentage": NaN,
+    "Autonomous": NaN,
+    "Course Info": [
+      {
+        "S.No.": 1,
+        "CODE": 56009,
+        "SUBJECT TITLE": "ELECTRICAL MEASUREMENTS",
+        "Internal Marks": 25,
+        "End Exam": 42,
+        "Total Marks": 67,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 3
+      },
+      {
+        "S.No.": 2,
+        "CODE": 56010,
+        "SUBJECT TITLE": "POWER SEMICONDUCTOR DRIVES",
+        "Internal Marks": 24,
+        "End Exam": 32,
+        "Total Marks": 56,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 4
+      },
+      {
+        "S.No.": 3,
+        "CODE": 56011,
+        "SUBJECT TITLE": "COMPUTERMETHODS INPOWER SYSTEMS",
+        "Internal Marks": 23,
+        "End Exam": 34,
+        "Total Marks": 57,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 4
+      },
+      {
+        "S.No.": 4,
+        "CODE": 56012,
+        "SUBJECT TITLE": "MICROPROCESSORS & MICROCONTROLLERS",
+        "Internal Marks": 25,
+        "End Exam": 27,
+        "Total Marks": 52,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 4
+      },
+      {
+        "S.No.": 5,
+        "CODE": 56013,
+        "SUBJECT TITLE": "RENEWABLE ENERGY SOURCES",
+        "Internal Marks": 24,
+        "End Exam": 46,
+        "Total Marks": 70,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 3
+      },
+      {
+        "S.No.": 6,
+        "CODE": 56015,
+        "SUBJECT TITLE": "ENVIRONMENTAL STUDIES",
+        "Internal Marks": 24,
+        "End Exam": 51,
+        "Total Marks": 75,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 3
+      },
+      {
+        "S.No.": 7,
+        "CODE": 56602,
+        "SUBJECT TITLE": "ADVANCED ENGLISH COMMUNICATION SKILLS (LAB)",
+        "Internal Marks": 25,
+        "End Exam": 50,
+        "Total Marks": 75,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 2
+      },
+      {
+        "S.No.": 8,
+        "CODE": 56603,
+        "SUBJECT TITLE": "POWER ELECTRONICS AND SIMULATION (LAB)",
+        "Internal Marks": 24,
+        "End Exam": 49,
+        "Total Marks": 73,
+        "Unnamed: 6": "P",
+        "Unnamed: 7": 2
+      }
+    ]
+  }
+}
