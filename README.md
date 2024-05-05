@@ -4,6 +4,10 @@ This project serves as my capstone, a university assignment. It involves transla
 
 ## Dataset
 We utilize images of student transcripts provided by the university. Using Label Studio, we annotate these transcripts by creating bounding boxes for text and saving the annotations as JSON files.
+Label Studio link 
+```bash
+ https://labelstud.io/
+```
 
 # How to run?
 ### STEPS:
